@@ -1,0 +1,28 @@
+name: sheepnerfer
+favicon: null
+layout_spectrum: 0.16774554271250963
+typography_spectrum: 0.29584327270276845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8836352212820202
+  lightness: 0.49296043417416513
+  saturation: 0.9297597005497664
+  rhythmicContrast: 0.4324323912151158
+purpose: []
